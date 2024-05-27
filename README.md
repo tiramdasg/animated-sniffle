@@ -1,4 +1,4 @@
-# Basics of Python
+# 100 Days of Python
 When in doubt go back to basics of Python 🐍!!
 
 This is a challenge I took to code for 100 days!
